@@ -1,2 +1,0 @@
-# ProjectSymo
-Junior Project
